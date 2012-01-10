@@ -1,5 +1,8 @@
 To prepare yourself to upload your first assignment you will need to do the following:
-**Completing these steps does not complete your first assignment. Please see the course web site for the assignment specification**
+
+Please email any questions to: **ethan@ucsd.edu**
+
+**Completing these steps does not complete your first assignment. Please see the course web site for the assignment specification.**
 
 ###Prepare Yourself
 1. Sign up for a [free Github account](https://github.com/signup/free). Git is a version control system that you will use to submit your assignments.  
@@ -178,7 +181,6 @@ To prepare yourself to upload your first assignment you will need to do the foll
 	Already up-to-date.
 	```
 
-
 23.	You use the command `git push` to bring Github up to date with the changes you've made.
 
 	```bash
@@ -193,7 +195,7 @@ To prepare yourself to upload your first assignment you will need to do the foll
 	```
 
 **When grading assignments we will pull the last commit you pushed before the due date for an assignment.**
-**Completing these steps does not complete your first assignment. Please see the course web site for the assignment specification**
+**Completing these steps does not complete your first assignment. Please see the course web site for the assignment specification.**
 
 
 ###More Cool Stuff:
