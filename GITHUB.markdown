@@ -17,7 +17,7 @@ Please email any questions to: **ethan@ucsd.edu**
 
 5.  Obviously you will want to work on your assignment on your computer and periodically push your own files up to your Github account and then once they are there you will periodically push again to update the files on Github.  
 
-6.  There is one more step to understand.  Your own computer needs to have the files we are already put up in the 187a_Competitive Analysis directory.  To do that we need to "clone" Github's repository.  This will duplicate its current directory structure on your machine.  Once you have cloned this repository if anyone else were to change files there (because you were collaborating with them) then you will need to 'Pull' from Github and it will add whatever is new to your own repository [you don't need to worry about pulling until you work in teams].  
+6.  There is one more step to understand.  Your own computer needs to have the files we are already put up in the portfolio_competitive_analysis directory.  To do that we need to "clone" Github's repository.  This will duplicate its current directory structure on your machine.  Once you have cloned this repository if anyone else were to change files there (because you were collaborating with them) then you will need to 'Pull' from Github and it will add whatever is new to your own repository [you don't need to worry about pulling until you work in teams].  
 
 
 ###Get the Files on Your Computer
@@ -194,7 +194,8 @@ Please email any questions to: **ethan@ucsd.edu**
 	   78c917c..4ff38f9  master -> master
 	```
 
-**When grading assignments we will pull the last commit you pushed before the due date for an assignment.**
+24. If you go to the Github web page for your project you should now see your changes. You can push changes as many times as you want. When grading assignments we will pull the last commit you pushed before the due date for an assignment.
+
 **Completing these steps does not complete your first assignment. Please see the course web site for the assignment specification.**
 
 
