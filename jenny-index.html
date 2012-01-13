@@ -30,14 +30,24 @@
 
   <body>
 
-    <div class="topbar">
-      <div class="fill">
+    <div class="topbar" data-scrollspy="scrollspy" >
+      <div class="topbar-inner">
         <div class="container">
-          <a class="brand" href="#">Project name</a>
+          <a class="brand" href="#">Bootstrap</a>
           <ul class="nav">
-            <li class="active"><a href="#">Home</a></li>
+            <li class="active"><a href="#overview">Overview</a></li>
             <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#grid-system">Grid</a></li>
+            <li><a href="#layouts">Layouts</a></li>
+            <li><a href="#typography">Type</a></li>
+            <li><a href="#media">Media</a></li>
+            <li><a href="#tables">Tables</a></li>
+            <li><a href="#forms">Forms</a></li>
+            <li><a href="#navigation">Navigation</a></li>
+            <li><a href="#alerts">Alerts</a></li>
+            <li><a href="#popovers">Popovers</a></li>
+            <li><a href="#javascript">Javascript</a></li>
+            <li><a href="#less">Less</a></li>
           </ul>
         </div>
       </div>
@@ -76,6 +86,65 @@
       </footer>
 
     </div> <!-- /container -->
+    <div class="container">
+      <section id="about">
+  <div class="page-header">
+    <h1>About Bootstrap <small>Brief history, browser support, and more</small></h1>
+  </div>
+  <div class="row">
+    <div class="span-one-third">
+      <h3>History</h3>
+      <p>Engineers at Twitter have historically used almost any library they were familiar with to meet front-end requirements. Bootstrap began as an answer to the challenges that presented. With the help of many awesome folks, Bootstrap has grown significantly.</p>
+      <p>Read more on <a href="https://dev.twitter.com/blog/bootstrap-twitter">dev.twitter.com &rsaquo;</a></p>
+      <p>
+        <a href="http://twitter.com/twbootstrap" class="twitter-follow-button">Follow @twbootstrap</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      </p>
+    </div>
+    <div class="span-one-third">
+      <h3>Browser support</h3>
+      <p>Bootstrap is tested and supported in major modern browsers like Chrome, Safari, Internet Explorer, and Firefox.</p>
+      <img src="assets/img/browsers.png" alt="Tested and supported in Chrome, Safari, Internet Explorer, and Firefox">
+      <ul>
+        <li>Latest Safari</li>
+        <li>Latest Google Chrome</li>
+        <li>Firefox 4+</li>
+        <li>Internet Explorer 7+</li>
+        <li>Opera 11</li>
+      </ul>
+    </div>
+    <div class="span-one-third">
+      <h3>What's included</h3>
+      <p>Bootstrap comes complete with compiled CSS, uncompiled, and example templates.</p>
+      <ul>
+        <li><a href="./javascript.html">Javascript plugins</a></li>
+        <li>All original .less files</li>
+        <li>Fully <a href="1.4.0/bootstrap.css">compiled</a> and <a href="1.4.0/bootstrap.min.css">minified</a> CSS</li>
+        <li>Complete styleguide documentation</li>
+        <li>Three example pages with different layouts</li>
+      </ul>
+    </div>
+  </div><!-- /row -->
+
+  <div class="row">
+    <div class="span12">
+      <h3>Quick-start examples</h3>
+      <p>Need some quick templates? Check out these basic examples we've put together:</p>
+      <ul class="media-grid">
+        <li>
+          <a href="examples/hero.html"><img src="assets/img/example-diagram-01.png" alt="Simple three-column layout with hero unit"></a>
+        </li>
+        <li>
+          <a href="examples/fluid.html"><img src="assets/img/example-diagram-02.png" alt="Fluid layout with static sidebar"></a>
+        </li>
+        <li>
+          <a href="examples/container-app.html"><img src="assets/img/example-diagram-03.png" alt="Simple hanging container for apps"></a>
+        </li>
+      </ul>
+    </div>
+  </div><!-- /row -->
+</section>
+    </div>
 
   </body>
 </html>
