@@ -1,6 +1,5 @@
-To prepare yourself to upload your first assignment you will need to do the following:
 
-Please email any questions to: **ethan@ucsd.edu**
+Please email any questions to: **187@ucsd.edu**
 
 **Completing these steps does not complete your first assignment. Please see the course web site for the assignment specification.**
 
